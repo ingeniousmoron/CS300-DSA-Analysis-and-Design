@@ -1,5 +1,7 @@
 # CS300-DSA-Analysis-and-Design
 
 For this project, I designed software for ABC University to organize and access the different courses available in their computer science program. I looked at various possible data structures for the storage and retrieval of the courses and ultimately made the choice of a binary search tree based on performance and my own ability as a developer.
+
 Throughout this course, I did my best to overcome obstacles by following the instructions left in comments, checking the textbook, and seeking advice posted from other developers on sites such as StackExchange. Sometimes these methods were more successful than others, and I have written some poor bits of code. In the future, I hope to strengthen my understanding of different data structures so that I can implement the correct ones when the time comes.
+
 Working on this project and in this course in general has given me a greater amount of tools to use in my future programs. Additionally, I've aimed to make my programs more maintainable and readable by using comment headings to seperate sections of my code into related clusters. Seeing the example code take this approach was very inspiring.
